@@ -22,3 +22,5 @@ https://github.com/btabur/Floating_Widget/blob/master/MainActivity
 
 ![Alt text](https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085806.png?raw=true "floating widget")
 
+![Alt text](https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085896.png?raw=true "floating widget açık hali")
+
