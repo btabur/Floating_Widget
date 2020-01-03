@@ -20,5 +20,5 @@ https://github.com/btabur/Floating_Widget/blob/master/acticity_main.xml
 https://github.com/btabur/Floating_Widget/blob/master/MainActivity
 
 
-![Alt text](/relative/https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085806.png?raw=true "Optional Title")
+![Alt text](https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085806.png?raw=true "floating widget")
 
