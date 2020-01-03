@@ -21,4 +21,5 @@ https://github.com/btabur/Floating_Widget/blob/master/MainActivity
 
 
 ![ScreenShot](https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085806.png)
+![ScreenShot](https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085896.png)
 
