@@ -20,5 +20,5 @@ https://github.com/btabur/Floating_Widget/blob/master/acticity_main.xml
 https://github.com/btabur/Floating_Widget/blob/master/MainActivity
 
 
-![ScreenShot](https://{https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085806.png})
+![ScreenShot](https://github.com/btabur/Floating_Widget/blob/master/Screenshot_1578085806.png)
 
